@@ -41,7 +41,6 @@ function tratarNumero(elemento) {
 
 // Função para fazer o cálculo da média ----------------------------------------------------
 
-
 botao.addEventListener('click', calcularMedia);
 
 function calcularMedia(event) {
